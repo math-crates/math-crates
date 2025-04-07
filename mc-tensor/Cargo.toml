@@ -1,0 +1,11 @@
+[package]
+name = "mc-tensor"
+version = "0.1.0"
+edition = "2024"
+
+[package.metadata.docs.rs]
+rustdoc-args = [ "--html-in-header", "./src/docs-header.html" ]
+
+[dependencies]
+
+
